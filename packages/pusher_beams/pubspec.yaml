@@ -23,7 +23,7 @@ dependencies:
       path: packages/pusher_beams_android
       ref: master
   pusher_beams_ios: ^1.1.1
-  uuid: ^3.0.5
+  uuid: ^4.5.1
 
 dev_dependencies:
   flutter_test:
